@@ -23,7 +23,7 @@ Instale o pacote wget usando o comando:
 
 `apt-get install wget`
 
-Baixe o banner usando o comando:
+Clone este repositório ou baixe o banner usando o comando (tudo numa só linha):
 
 `wget http://pkgs.fedoraproject.org/repo/pkgs/banner/banner-1.3.4.tar.gz/cfd45b431a5356c086657365b23ab0c4/banner-1.3.4.tar.gz`
 
